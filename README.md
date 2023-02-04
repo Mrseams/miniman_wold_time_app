@@ -1,15 +1,15 @@
 # miniman_wold_time_app
 
-A new Flutter project.
+This is a beginner projet which is based on the youtube tutorial of NetNinja
+[playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+-clone this repository
+-cd to the folder created
+-in the terminal type flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ressources
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
